@@ -6,28 +6,28 @@ I have scrap each and every mendatory details of daraz product by using selenium
 ## Description: 
 This Python script utilizes Selenium to automate the extraction of product details from a product page on Daraz Bangladesh (an e-commerce platform). The script scrapes product information such as:
 
--Product name
--Product description
--Price
--Discount price
--Rating
--Product image
--Product reviews/comments
+- Product name
+- Product description
+- Price
+- Discount price
+- Rating
+- Product image
+- Product reviews/comments
 
 ## Dependencies:
 
--Selenium: For web scraping and interacting with the web page.
--requests: For downloading the product image.
--os: For file handling.
--time: For adding pauses in between actions to avoid overloading the server or triggering anti-scraping mechanisms.
+- Selenium: For web scraping and interacting with the web page.
+- requests: For downloading the product image.
+- os: For file handling.
+- time: For adding pauses in between actions to avoid overloading the server or triggering anti-scraping mechanisms.
 
 ## Output:
 
 The product's image is saved to the "images" directory if available.
 The script prints the following details:
--Product name
--Product description
--Price
--Discount price
--Rating
--Product comments 
+- Product name
+- Product description
+- Price
+- Discount price
+- Rating
+- Product comments 

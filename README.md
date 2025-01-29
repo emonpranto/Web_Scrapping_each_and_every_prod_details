@@ -30,4 +30,8 @@ The script prints the following details:
 - Price
 - Discount price
 - Rating
-- Product comments 
+- Product comments
+
+# To run this code you need to install some of libraries that I have shared a file named by requirements.txt where you can find the required libraries and install it by run comman in terminal :
+pip install -r requirements.txt
+
